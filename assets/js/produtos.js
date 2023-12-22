@@ -11,5 +11,5 @@ let produtosPintura = [
     { nome:'Fosco Premium 18L', preco:'Sob Consulta', img:'./assets/images/pintura/suvinil-acrilico-premium.jpg' },
     { nome:'Tinta Acrilica 18L', preco:'Sob Consulta', img:'./assets/images/pintura/suvinil-acrilico-standart- 18L.jpg' },
     { nome:'Toque de Seda 18L', preco:'Sob Consulta', img:'./assets/images/pintura/suvinil-acrilico-premium-azul.jpg' },
-    { nome:'Premium Branco Neve 18 L', preco:'Sob Consulta', img:'./assets/images/pintura/suvinil-acrilico-premium-vermelha.jpg' },
+    { nome:'Premium Neve 18 L', preco:'Sob Consulta', img:'./assets/images/pintura/suvinil-acrilico-premium-vermelha.jpg' },
 ];
